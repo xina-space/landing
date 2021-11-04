@@ -1,0 +1,17 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-start;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: #3f3f3f;
+}
+
+.banner p {
+  color: #3f3f3f;
+  opacity: .7;
+  font-size: 20px;
+}
